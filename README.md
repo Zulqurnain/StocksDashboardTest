@@ -117,3 +117,7 @@ portfolio-dashboard/
 ├── e2e/                    # Playwright E2E tests
 └── docker-compose.yml
 ```
+
+## Recent changes
+
+- 2026-10-20: Commit history tidied up: every commit is now credited to Zulqurnain.
